@@ -6,8 +6,6 @@ This repository contains the code of portfolio website. The website showcases sk
 
     HTML
     CSS
-    JavaScript
-    Bootstrap
 
 # Getting Started
 
