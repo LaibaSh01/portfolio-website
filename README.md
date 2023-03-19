@@ -1,15 +1,15 @@
-#Portfolio Website
+# Portfolio Website
 
 This repository contains the code of portfolio website. The website showcases skills, and contact info.
 
-#Technologies Used
+# Technologies Used
 
     HTML
     CSS
     JavaScript
     Bootstrap
 
-#Getting Started
+# Getting Started
 
 To run the website on your local machine, follow these steps:
 
@@ -17,18 +17,18 @@ To run the website on your local machine, follow these steps:
     Navigate to the project directory: cd portfolio-website
     Open the index.html file in your web browser.
 
-#Features
+# Features
 
     Skills section with progress bars
     Contact section
 
-#Contributing
+# Contributing
 
 If you find any issues with the code, feel free to submit a pull request or open an issue. I appreciate any contributions to make the website better.
 
-#License
+# License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
-Feel free to customize this template to fit your specific needs. ![portfolio-website](https://user-images.githubusercontent.com/101839437/226197828-98098120-7161-4dd1-b5b8-751a8e738b60.png)
+Feel free to customize this template to fit your specific needs. ![Website](https://user-images.githubusercontent.com/101839437/226197950-05223c42-b055-4aa0-96ec-8f5b42d81a80.png)
