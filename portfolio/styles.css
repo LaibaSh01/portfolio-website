@@ -1,0 +1,209 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #b359aa;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+
+h2 {
+    color: #573d72;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #684093;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    border: dotted #ad66b23b 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p{
+    line-height: 2;
+}
+
+a{
+    color: #573d72;
+    font-family: 'Montserrat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.second-container h1{
+    color: black;
+    font-size: 6.625rem;
+    margin: 80px auto 0 auto;
+    font-family: 'Bebas Neue', cursive;
+    position: absolute;
+    left: -18%;
+}
+
+.second-container h2{
+    color: black;
+    font-family: 'Figtree', sans-serif;
+    font-size: 2.1rem;
+    position: absolute;
+    left: -12%;
+    margin: 220px auto 0 auto;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.first-container{
+    height: 702px;
+    width: 50%;
+    margin-top: 0;
+    background-color: #E3DFFD;
+}
+
+.second-container{
+    position: absolute;
+    height: 702px;
+    width: 50%;
+    background-color: #E5D1FA;
+    left: 50%;
+    top: 0;
+}
+
+
+.home{
+    width: 50%;
+    height: 420px;
+    position: absolute;
+    top: 308px;
+    left: -20%;
+}
+
+.html-5{
+    width: 5%;
+    position: absolute;
+    top: 100px;
+    rotate: -20deg;
+    left: 300px;
+}
+
+.css-3{
+    width: 10%;
+    position: absolute;
+    top: 180px;
+    rotate: 20deg;
+    left: 370px;
+}
+
+.js{
+    width: 4%;
+    position: absolute;
+    top: 400px;
+    rotate: -20deg;
+    left: 330px;
+}
+
+.middle-container{
+
+    margin: 50px 0;
+  
+}
+
+.intro{
+    width: 35%;
+    margin: auto;   
+}
+
+.woman{
+    width: 15%;
+    margin: auto;
+}
+
+.hello{
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+
+.bottom-container{
+    background-color: #E3DFFD;
+    padding: 50px 0 20px;
+    margin-top: 100px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright{
+    color: black;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.code-img{
+    width: 29%;
+    height: 175px;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+	box-shadow: 0px 10px 14px -7px #4d2357;
+	background:linear-gradient(to bottom, #e5d1fa 5%, #765b94 100%);
+	background-color:#e5d1fa;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9982b0;
+}
+
+.btn:hover {
+	background:linear-gradient(to bottom, #765b94 5%, #e5d1fa 100%);
+	background-color:#765b94;
+    text-decoration: none;
+    color: white;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+        
+   
